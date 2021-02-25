@@ -4,13 +4,13 @@
 热心人士提供
 ```
 https://dandanplay-api.933.moe
-https://dmhy.justyao.workers.dev/
-https://api.ddplay.glodonbim.top/
+https://dmhy.justyao.workers.dev
+https://api.ddplay.glodonbim.top
 ```
 
 个人提供，每日10w请求机会，超出请求后会无法得到数据
 ```
-https://k.dandanplay.workers.dev/
+https://k.dandanplay.workers.dev
 ```
 ## 自建
 [python自搭建版本](https://pastebin.ubuntu.com/p/mGP7JRpBtd/)
