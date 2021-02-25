@@ -22,4 +22,4 @@ https://k.dandanplay.workers.dev/
 [Docker](https://github.com/IllyaTheHath/dandan-api)
 ## 说明
 推荐还是自己搭建一个获得更好的体验
-感谢以上节点的提供者
+感谢以上提供者
