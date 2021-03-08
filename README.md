@@ -4,6 +4,7 @@
 热心人士提供
 ```
 https://dandanplay-api.933.moe
+https://api.ddplay.justyao.tk
 https://dmhy.justyao.workers.dev
 ```
 
