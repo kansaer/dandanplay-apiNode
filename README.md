@@ -5,7 +5,6 @@
 ```
 https://dandanplay-api.933.moe
 https://dmhy.justyao.workers.dev
-https://api.ddplay.glodonbim.top
 ```
 
 个人提供，每日10w请求机会，超出请求后会无法得到数据
