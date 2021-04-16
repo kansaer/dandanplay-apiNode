@@ -13,7 +13,7 @@ https://dmhy.justyao.workers.dev
 https://k.dandanplay.workers.dev
 ```
 ## 自建
-[python自搭建版本](https://pastebin.ubuntu.com/p/mGP7JRpBtd/)
+[python自搭建版本](https://pastebin.ubuntu.com/p/b33zZ3pvVr/)
 
 [PHP版本](https://gitee.com/lianxun/dandan)
 
