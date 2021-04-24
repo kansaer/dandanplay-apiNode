@@ -6,6 +6,7 @@
 https://dandanplay-api.933.moe
 https://api.ddplay.justyao.tk
 https://dmhy.justyao.workers.dev
+https://dandan.chiyuki.cc
 ```
 
 个人提供，每日10w请求机会，超出请求后会无法得到数据
