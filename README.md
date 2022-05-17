@@ -11,7 +11,7 @@ https://dandan.chiyuki.cc
 
 个人提供，每日10w请求机会，超出请求后会无法得到数据
 ```
-https://k.dandanplay.workers.dev
+http://dan.laodb.com/
 ```
 ## 自建
 [python自搭建版本](https://pastebin.ubuntu.com/p/b33zZ3pvVr/)
