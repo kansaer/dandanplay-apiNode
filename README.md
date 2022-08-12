@@ -9,9 +9,9 @@ https://dmhy.justyao.workers.dev
 https://dandan.chiyuki.cc
 ```
 
-个人提供，每日10w请求机会，超出请求后会无法得到数据
+个人提供,服务器IP可能会被cloudflare拉黑
 ```
-http://dan.laodb.com/
+http://dan.laodb.com:23333
 ```
 ## 自建
 [python自搭建版本](https://pastebin.ubuntu.com/p/b33zZ3pvVr/)
