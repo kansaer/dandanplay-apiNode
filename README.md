@@ -3,6 +3,7 @@
 ## 填入即用
 热心人士提供
 ```
+https://res.dandanplay.net
 https://dandanplay-api.933.moe
 https://api.ddplay.justyao.tk
 https://dmhy.justyao.workers.dev
