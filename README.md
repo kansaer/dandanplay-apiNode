@@ -5,7 +5,7 @@
 ```
 https://res.dandanplay.net
 https://dandanplay-api.933.moe
-https://dmhy.justyao.workers.dev   (需要代理)
+https://dmhy.justyao.workers.dev   (大陆地区需要代理)
 ```
 
 个人提供
