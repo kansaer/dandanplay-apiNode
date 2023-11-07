@@ -10,7 +10,7 @@ https://dmhy.justyao.workers.dev   (大陆地区需要代理)
 
 个人提供
 ```
-http://dan.laodb.com:23333
+http://36.133.112.28:23333
 ```
 ## 自建
 [PHP](https://gitee.com/lianxun/dandan)
