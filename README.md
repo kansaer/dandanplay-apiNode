@@ -4,13 +4,18 @@
 热心人士提供
 ```
 https://res.dandanplay.net
+```
+```
 https://dandanplay-api.933.moe
-https://dmhy.justyao.workers.dev   (大陆地区需要代理)
+```
+大陆地区需要代理:
+```
+https://dmhy.justyao.workers.dev
 ```
 
 个人提供
 ```
-http://36.133.112.28:23333
+http://dan.laodb.com:23333
 ```
 ## 自建
 [PHP](https://gitee.com/lianxun/dandan)
