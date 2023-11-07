@@ -5,21 +5,17 @@
 ```
 https://res.dandanplay.net
 https://dandanplay-api.933.moe
-https://api.ddplay.justyao.tk
-https://dmhy.justyao.workers.dev
-https://dandan.chiyuki.cc
+https://dmhy.justyao.workers.dev   (需要代理)
 ```
 
-个人提供,服务器IP可能会被cloudflare拉黑
+个人提供
 ```
 http://dan.laodb.com:23333
 ```
 ## 自建
-[python自搭建版本](https://pastebin.ubuntu.com/p/b33zZ3pvVr/)
+[PHP](https://gitee.com/lianxun/dandan)
 
-[PHP版本](https://gitee.com/lianxun/dandan)
-
-[Cloudflare Workers](https://github.com/LussacZheng/dandanplay-resource-service)
+[Cloudflare Workers、 Deno Deploy、 Golang 和 Rust](https://github.com/LussacZheng/dandanplay-resource-service)
 
 [Docker](https://github.com/IllyaTheHath/dandan-api)
 ## 说明
